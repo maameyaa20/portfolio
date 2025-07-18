@@ -1,0 +1,4 @@
+> Languages: JavaScript, Python, C++
+> Frameworks: React, Node.js, Flask
+> Tools: Git, Docker, VS Code
+> Workflow: Agile / Scrum / TDD
